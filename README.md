@@ -22,3 +22,6 @@ Este projeto está licenciado é apenas para uso de aprendizado.
 ## Observação
  - Esse projeto ainda não esta concluido!
 
+## Tela de Login do Projeto
+
+<img src="https://github.com/monicacosta-dev/cadastro_vue/blob/main/public/img/LogonTela.png"/>
